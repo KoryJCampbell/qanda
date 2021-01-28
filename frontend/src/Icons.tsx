@@ -1,4 +1,3 @@
-import react from 'react';
 import user from './user.svg'
 
 export const UserIcon = () =>
